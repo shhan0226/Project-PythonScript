@@ -5,5 +5,7 @@
 
 ## Table of Contents
 
+- 기본 DB 이용 방법 (MariaDB)
+
 - Project-PyMySql
   * 파이썬을 이용한 mariadb연동 및 운영 스터디를 위한 저장소
